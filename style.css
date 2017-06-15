@@ -2,7 +2,7 @@ body {
   margin: 0;
   width: 100%;
   height: 100%;
-  background: #000000;
+  background: #FF0000;
   overflow-y: visible;
 }
 
@@ -18,7 +18,7 @@ canvas {
 	display:block;
   color: white;
   margin: 0 auto;
-  background-color: black;
+  background-color: #FF0000;
   font-size: 18px;
   line-height: 25px;
   text-align: justify;
@@ -34,6 +34,7 @@ padding-bottom: 20px;
 padding-top: 10px;
 margin-top: 0;
 margin-bottom: 0;
+color: #ffff00;
 }
 
 pre{
@@ -43,7 +44,6 @@ pre{
   word-wrap: break-word;
   font-family: 'Inconsolata', monospace;
   font-weight: 100;
-  font-style: normal;
 }
 
 @media only screen and (max-width: 479px){
