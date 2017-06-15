@@ -43,7 +43,7 @@ pre{
   word-wrap: break-word;
   font-family: 'Inconsolata', monospace;
   font-weight: 100;
-  font-style: oblique;
+  font-style: normal;
 }
 
 @media only screen and (max-width: 479px){
