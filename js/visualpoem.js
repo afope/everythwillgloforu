@@ -8,7 +8,7 @@ camera.updateProjectionMatrix();
 
 var renderer = new THREE.WebGLRenderer({alpha: true});
 
-renderer.setSize( window.innerWidth, window.innerHeight );
+renderer.setSize( window.innerWidth, 300);
 renderer.setPixelRatio(window.devicePixelRatio ? window.devicePixelRatio : 1);
 window.addEventListener( 'resize', onWindowResize, false );
 
